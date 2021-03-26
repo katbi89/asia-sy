@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
       
-        <title>Asia Center</title>
+        <title>مركز آسيا</title>
         <meta content="" name="descriptison">
         <meta content="" name="keywords">
       
@@ -13,6 +13,8 @@
       
         <!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
       
         <!-- Vendor CSS Files -->
         <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -23,7 +25,7 @@
         <link href="/vendor/aos/aos.css" rel="stylesheet">
       
         <!-- Template Main CSS File -->
-        <link href="/css/style.css" rel="stylesheet">
+        <link href="/css/style-rtl.css" rel="stylesheet">
       
       
       </head>
@@ -38,11 +40,11 @@
       
           <nav class="nav-menu">
             <ul>
-              <li class="active"><a href="#hero"><i class="bx bx-home"></i> <span>Home</span></a></li>
-              <li><a href="#services"><i class="bx bx-server"></i> <span>ICDL</span></a></li>
-              <li><a href="#about"><i class="bx bx-user"></i> <span>About Us</span></a></li>
-              <li><a href="#contact"><i class="bx bx-envelope"></i> <span>Contact Us</span></a></li>
-              <li><a href="/welcome-ar"><i class="bx bx-file"></i> <span>العربية</span></a></li>
+              <li class="active"><a href="#hero"> <span>الرئيسية</span><i class="bx bx-home"></i></a></li>
+              <li><a href="#services"><span>حجز امتحان</span><i class="bx bx-server"></i> </a></li>
+              <li><a href="#about"><span>من نحن؟</span><i class="bx bx-user"></i> </a></li>
+              <li><a href="#contact"> <span>اتصل بنا</span><i class="bx bx-envelope"></i></a></li>
+              <li><a href="/"><span>English</span><i class="bx bx-file"></i> </a></li>
             </ul>
           </nav><!-- .nav-menu -->
       
@@ -51,13 +53,13 @@
         <!-- ======= Hero Section ======= -->
         <section id="hero" class="d-flex flex-column justify-content-center">
           <div class="container" data-aos="zoom-in" data-aos-delay="100">
-            <h1>Asia Center</h1>
-            <p><span class="typed" data-typed-items="Training center, developing skills, Business Administration, Certified exam center"></span></p>
+            <h1>مركز آسيا</h1>
+            <p><span class="typed" data-typed-items="مركز تدريبي, تطوير مهارات, إدارة أعمال, مركز امتحاني"></span>            </p>
             {{-- <div class="social-links">
               <a href="#" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" target="_blank" class="github"><i class="bx bxl-github"></i></a> 
-              <a href="#" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+               <a href="#" target="_blank" class="github"><i class="bx bxl-github"></i></a> 
+              <a href="#" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a> 
             </div> --}}
           </div>
         </section><!-- End Hero -->
@@ -70,7 +72,7 @@
       
               <div class="section-title">
                 <h2>ICDL</h2>
-                <p>Reservation ICDL Exam Online</p>
+                <p>حجز امتحان للرخصة الدولية لقيادة الحاسب</p>
               </div>
       
               <div class="row">
@@ -83,8 +85,8 @@
                       </svg>
                       <i class="bx bx-pen"></i>
                     </div>
-                    <h4><a href="http://178.253.110.33:1200/" target="_blank">Reservation Exam</a></h4>
-                    <p>Reservation ICDL Exam Online</p>
+                    <h4><a href="http://178.253.110.33:1200/" target="_blank">بوابة حجز الامتحان</a></h4>
+                    <p>حجز امتحان للرخصة الدولية لقيادة الحاسب</p>
                   </div>
                 </div>
       
@@ -124,8 +126,8 @@
             <div class="container" data-aos="fade-up">
       
               <div class="section-title">
-                <h2>About</h2>
-                <p>Who is Asia Center</p>
+                <h2>من نحن؟</h2>
+                <p>عن مركز آسيا</p>
               </div>
       
               <div class="row">
@@ -150,8 +152,8 @@
                       </ul>
                     </div>
                   </div> --}}
-                  <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, nihil itaque, consectetur adipisci maxime obcaecati magnam cumque alias beatae corporis minima. Beatae perspiciatis, rem voluptas temporibus ipsam natus nesciunt sint!
+                  <p class="about-asia">
+                    نبذة عن مركز آسيا
                   </p>
                 </div>
               </div>
@@ -164,8 +166,8 @@
             <div class="container" data-aos="fade-up">
       
               <div class="section-title">
-                <h2>Facts</h2>
-                <p>Let's have a look on the numbers</p>
+                <h2>احصائيات</h2>
+                <p>معلومات عنا بالأرقام</p>
               </div>
       
               <div class="row">
@@ -174,7 +176,7 @@
                   <div class="count-box">
                     <i class="icofont-simple-smile"></i>
                     <span data-toggle="counter-up">588</span>
-                    <p>Students</p>
+                    <p>طالبة وطالبة</p>
                   </div>
                 </div>
       
@@ -182,7 +184,7 @@
                   <div class="count-box">
                     <i class="icofont-document-folder"></i>
                     <span data-toggle="counter-up">21</span>
-                    <p>Courses</p>
+                    <p>كورس تدريبي</p>
                   </div>
                 </div>
       
@@ -190,7 +192,7 @@
                   <div class="count-box">
                     <i class="icofont-live-support"></i>
                     <span data-toggle="counter-up">1,463</span>
-                    <p>Certificate</p>
+                    <p>شهادة</p>
                   </div>
                 </div>
       
@@ -198,7 +200,7 @@
                   <div class="count-box">
                     <i class="icofont-users-alt-5"></i>
                     <span data-toggle="counter-up">80</span>
-                    <p>Teammates</p>
+                    <p>ضمن الفريق</p>
                   </div>
                 </div>
       
@@ -279,7 +281,7 @@
             <div class="container" data-aos="fade-up">
       
               <div class="section-title">
-                <h2>Contact</h2>
+                <h2>اتصل بنا</h2>
               </div>
       
               <div class="row mt-1">
@@ -288,13 +290,13 @@
                   <div class="info">
                     <div class="address">
                       <i class="icofont-google-map"></i>
-                      <h4>Location</h4>
-                      <p>Damascus - Halboni</p>
+                      <h4>الموقع</h4>
+                      <p>دمشق - الحلبوني</p>
                     </div>
       
                     <div class="email">
                       <i class="icofont-envelope"></i>
-                      <h4>Email</h4>
+                      <h4>البريد الالكتروني</h4>
                       <p>info@asia-sy.com</p>
                     </div>
       
@@ -317,8 +319,8 @@
       
         <!-- ======= Footer ======= -->
         <footer id="footer">
-          <div class="container text-left">
-            <h3>Asia Center</h3>
+          <div class="container text-right">
+            <h3>مركز آسيا</h3>
             <div class="social-links">
               <a href="#" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
@@ -327,7 +329,7 @@
             </div>
             <div class="copyright">
 
-              <p class="love">Made with  <span class="heart"></span><a href="https://www.linkedin.com/in/katbi89/"> Bilal Katbi</a></p>
+              <p class="love">برمجة وتصميم   <span class="heart"></span><a href="https://www.linkedin.com/in/katbi89/"> بلال كاتبي </a> </p>
             </div>
           </div>
         </footer><!-- End Footer -->
@@ -347,7 +349,7 @@
         <script src="/vendor/aos/aos.js"></script>
       
         <!-- Template Main JS File -->
-        <script src="/js/main.js"></script>
+        <script src="/js/main-ar.js"></script>
       
         {{-- <script async>(function(w, d) { w.CollectId = "5f4008971773836e21485455"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script> --}}
       
