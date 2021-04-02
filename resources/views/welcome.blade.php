@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
       
-        <title>Asia Center</title>
+        <title>Asia Training Center</title>
         <meta content="" name="descriptison">
         <meta content="" name="keywords">
       
         <!-- Favicons -->
-        <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon">
       
         <!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -51,7 +51,7 @@
         <!-- ======= Hero Section ======= -->
         <section id="hero" class="d-flex flex-column justify-content-center">
           <div class="container" data-aos="zoom-in" data-aos-delay="100">
-            <h1>Asia Center</h1>
+            <h1>Asia Training Center</h1>
             <p><span class="typed" data-typed-items="Training center, developing skills, Business Administration, Certified exam center"></span></p>
             {{-- <div class="social-links">
               <a href="#" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -151,8 +151,14 @@
                     </div>
                   </div> --}}
                   <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum, nihil itaque, consectetur adipisci maxime obcaecati magnam cumque alias beatae corporis minima. Beatae perspiciatis, rem voluptas temporibus ipsam natus nesciunt sint!
+                    <h4>The Asia Center is located in the heart of the capital, Damascus, opened its doors in 1980 AD, providing training services to tens of thousands annually, with a license from the Syrian government and international accreditation.</h4> <br>
+                    <h4><b> Methods and locations of training:</b> </h4><br>
                   </p>
+                    <ol>
+                      <li>Training in the halls and laboratories of the Specialized Asia Center in Baramkeh</li>
+                      <li>Training in the workplace in companies, organizations and ministries, with what is called On Job Training</li>
+                      <li>Online Training</li>
+                    </ol>
                 </div>
               </div>
       
@@ -292,6 +298,12 @@
                       <p>Damascus - Halboni</p>
                     </div>
       
+                    <div class="phone">
+                      <i class="icofont-mobile-phone"></i>
+                      <h4>Phone</h4>
+                      <p>+963 933 544-293</p>
+                    </div>
+
                     <div class="email">
                       <i class="icofont-envelope"></i>
                       <h4>Email</h4>
@@ -299,9 +311,9 @@
                     </div>
       
                   </div>
-      
+      <div class="row justify-content-center">
+                  <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=33.510356364605286,%2036.29194248493345&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies2.org">fmovies</a><br><style>.mapouter{position:relative;text-align:right;height:250px;width:300px;}</style><a href="https://www.embedgooglemap.net">embedding google maps in web page</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:250px;width:300px;}</style></div></div>                </div>
                 </div>
-      
                 {{-- <div class="col-lg-8 mt-5 mt-lg-0">
                   <p>Text<br> Text
                     Text<br> Text</p> --}}
@@ -320,8 +332,8 @@
           <div class="container text-left">
             <h3>Asia Center</h3>
             <div class="social-links">
-              <a href="#" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.facebook.com/Asia.Training.Center1" target="_blank" class="twitter"><i class="bx bxl-facebook"></i></a>
+              {{-- <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a> --}}
               {{-- <a href="#" target="_blank" class="github"><i class="bx bxl-github"></i></a> --}}
               {{-- <a href="#" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a> --}}
             </div>

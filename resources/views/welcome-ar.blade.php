@@ -4,12 +4,12 @@
         <meta charset="utf-8">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
       
-        <title>مركز آسيا</title>
+        <title>مركز آسيا للتدريب</title>
         <meta content="" name="descriptison">
         <meta content="" name="keywords">
       
         <!-- Favicons -->
-        <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="/img/favicon.png" type="image/x-icon">
       
         <!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -53,7 +53,7 @@
         <!-- ======= Hero Section ======= -->
         <section id="hero" class="d-flex flex-column justify-content-center">
           <div class="container" data-aos="zoom-in" data-aos-delay="100">
-            <h1>مركز آسيا</h1>
+            <h1>مركز آسيا للتدريب</h1>
             <p><span class="typed" data-typed-items="مركز تدريبي, تطوير مهارات, إدارة أعمال, مركز امتحاني"></span>            </p>
             {{-- <div class="social-links">
               <a href="#" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -152,8 +152,21 @@
                       </ul>
                     </div>
                   </div> --}}
-                  <p class="about-asia">
-                    نبذة عن مركز آسيا
+                  <p class="text-right">
+ يقدم دورات في المحاسبة والصيانة والشبكات والموبايل والغرافيك والتصميم الهندسي والبرمجة والتطوير الاداري
+<br>
+ مركز تدريبي وامتحاني  معتمد  
+    <br> 
+يقع مركز اسيا في قلب العاصمة دمشق, افتتح أبوابه عام 1980م , يقدم الخدمات التدربيبة لعشرات الآلاف سنويا , بترخيص من الحكومة السورية واعتمادية عالمية
+<br>
+<br>
+:طرق وأماكن التدريب 
+<br>
+التدريب بقاعات ومخابر مركز اسيا التخصصية بالبرامكة
+<br>
+On Job Training التدريب باماكن العمل في الشركات والمنظمات والوزارات بمايسمى 
+<br>
+Online Training التدريب الالكتروني عن بعد 
                   </p>
                 </div>
               </div>
@@ -293,6 +306,13 @@
                       <h4>الموقع</h4>
                       <p>دمشق - الحلبوني</p>
                     </div>
+
+                    <div class="phone">
+                      <i class="icofont-mobile-phone"></i>
+                      <h4>هاتف</h4>
+                      <p>+963 933 544-293</p>
+                    </div>
+
       
                     <div class="email">
                       <i class="icofont-envelope"></i>
@@ -301,9 +321,10 @@
                     </div>
       
                   </div>
-      
+      <div class="row justify-content-center">
+
+                  <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=33.510356364605286,%2036.29194248493345&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies2.org">fmovies</a><br><style>.mapouter{position:relative;text-align:right;height:250px;width:300px;}</style><a href="https://www.embedgooglemap.net">embedding google maps in web page</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:250px;width:300px;}</style></div></div>                </div>
                 </div>
-      
                 {{-- <div class="col-lg-8 mt-5 mt-lg-0">
                   <p>Text<br> Text
                     Text<br> Text</p> --}}
@@ -322,8 +343,8 @@
           <div class="container text-right">
             <h3>مركز آسيا</h3>
             <div class="social-links">
-              <a href="#" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://www.facebook.com/Asia.Training.Center1" target="_blank" class="twitter"><i class="bx bxl-facebook"></i></a>
+              {{-- <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a> --}}
               {{-- <a href="#" target="_blank" class="github"><i class="bx bxl-github"></i></a> --}}
               {{-- <a href="#" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a> --}}
             </div>
