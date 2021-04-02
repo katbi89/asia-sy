@@ -55,12 +55,6 @@
           <div class="container" data-aos="zoom-in" data-aos-delay="100">
             <h1>مركز آسيا للتدريب</h1>
             <p><span class="typed" data-typed-items="مركز تدريبي, تطوير مهارات, إدارة أعمال, مركز امتحاني"></span>            </p>
-            {{-- <div class="social-links">
-              <a href="#" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-               <a href="#" target="_blank" class="github"><i class="bx bxl-github"></i></a> 
-              <a href="#" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a> 
-            </div> --}}
           </div>
         </section><!-- End Hero -->
       
@@ -89,34 +83,6 @@
                     <p>حجز امتحان للرخصة الدولية لقيادة الحاسب</p>
                   </div>
                 </div>
-      
-                {{-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
-                  <div class="icon-box iconbox-orange ">
-                    <div class="icon">
-                      <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-                        <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,582.0697525312426C382.5290701553225,586.8405444964366,449.9789794690241,525.3245884688669,502.5850820975895,461.55621195738473C556.606425686781,396.0723002908107,615.8543463187945,314.28637112970534,586.6730223649479,234.56875336149918C558.9533121215079,158.8439757836574,454.9685369536778,164.00468322053177,381.49747125262974,130.76875717737553C312.15926192815925,99.40240125094834,248.97055460311594,18.661163978235184,179.8680185752513,50.54337015887873C110.5421016452524,82.52863877960104,119.82277516462835,180.83849132639028,109.12597500060166,256.43424936330496C100.08760227029461,320.3096726198365,92.17705696193138,384.0621239912766,124.79988738764834,439.7174275375508C164.83382741302287,508.01625554203684,220.96474134820875,577.5009287672846,300,582.0697525312426"></path>
-                      </svg>
-                      <i class="bx bx-microphone"></i>
-                    </div>
-                    <h4><a href="#" target="_blank">Information</a></h4>
-                    <p>About ICDL Exams</p>
-                  </div>
-                </div>
-      
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
-                  <div class="icon-box iconbox-blue">
-                    <div class="icon">
-                      <svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-                        <path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,541.5067337569781C382.14930387511276,545.0595476570109,479.8736841581634,548.3450877840088,526.4010558755058,480.5488172755941C571.5218469581645,414.80211281144784,517.5187510058486,332.0715597781072,496.52539010469104,255.14436215662573C477.37192572678356,184.95920475031193,473.57363656557914,105.61284051026155,413.0603344069578,65.22779650032875C343.27470386102294,18.654635553484475,251.2091493199835,5.337323636656869,175.0934190732945,40.62881213300186C97.87086631185822,76.43348514350839,51.98124368387456,156.15599469081315,36.44837278890362,239.84606092416172C21.716077023791087,319.22268207091537,43.775223500013084,401.1760424656574,96.891909868211,461.97329694683043C147.22146801428983,519.5804099606455,223.5754009179313,538.201503339737,300,541.5067337569781"></path>
-                      </svg>
-                      <i class="bx bx-face"></i>
-                    </div>
-                    <h4><a href="#" target="_blank">Downloads</a></h4>
-                    <p>All About ICDL Exams</p>
-                  </div>
-                </div>
-       --}}
-      
               </div>
       
             </div>
@@ -134,24 +100,6 @@
                 <div class="col-lg-12">
                   <img src="#" class="img-fluid" alt="">
                 </div>
-                {{-- <div class="col-lg-12 pt-4 pt-lg-0 content"> --}}
-                  {{-- <h3>Text &amp; Text</h3>
-                  <div class="row">
-                    <div class="col-lg-6">
-                      <ul>
-                        <li><i class="icofont-rounded-right"></i> <strong>Text</strong>Text</li>
-                        <li><i class="icofont-rounded-right"></i> <strong>Text</strong>Text</li>
-                        <li><i class="icofont-rounded-right"></i> <strong>Text</strong>Text</li>
-                      </ul>
-                    </div>
-                    <div class="col-lg-6">
-                      <ul>
-                        <li><i class="icofont-rounded-right"></i> <strong>Text</strong>Text</li>
-                        <li><i class="icofont-rounded-right"></i> <strong>Text</strong>Text</li>
-                        <li><i class="icofont-rounded-right"></i> <strong>Text</strong>Text</li>
-                      </ul>
-                    </div>
-                  </div> --}}
                   <p class="text-right">
  يقدم دورات في المحاسبة والصيانة والشبكات والموبايل والغرافيك والتصميم الهندسي والبرمجة والتطوير الاداري
 <br>
@@ -222,72 +170,7 @@ Online Training التدريب الالكتروني عن بعد
             </div>
           </section><!-- End Facts Section -->
       
-          <!-- ======= Skills Section ======= -->
-          {{-- <section id="skills" class="skills section-bg">
-            <div class="container" data-aos="fade-up">
-      
-              <div class="section-title">
-                <h2>Our Courses Now</h2>
-                <p>Yep, Let's see what i got.</p>
-              </div>
-      
-              <div class="row skills-content">
-      
-                <div class="col-lg-6">
-      
-                  <div class="progress">
-                    <span class="skill">HTML <i class="val">80%</i></span>
-                    <div class="progress-bar-wrap">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                  </div>
-      
-                  <div class="progress">
-                    <span class="skill">CSS <i class="val">75%</i></span>
-                    <div class="progress-bar-wrap">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                  </div>
-      
-                  <div class="progress">
-                    <span class="skill">JavaScript <i class="val">60%</i></span>
-                    <div class="progress-bar-wrap">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                  </div>
-      
-                </div>
-      
-                <div class="col-lg-6">
-      
-                  <div class="progress">
-                    <span class="skill">Python <i class="val">75%</i></span>
-                    <div class="progress-bar-wrap">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                  </div>
-      
-                  <div class="progress">
-                    <span class="skill">ICDL <i class="val">55%</i></span>
-                    <div class="progress-bar-wrap">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                  </div>
-      
-                  <div class="progress">
-                    <span class="skill">Photoshop <i class="val">75%</i></span>
-                    <div class="progress-bar-wrap">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-                    </div>
-                  </div>
-      
-                </div>
-      
-              </div>
-      
-            </div>
-          </section><!-- End Courses Section --> --}}
-      
+
       
           <!-- ======= Contact Section ======= -->
           <section id="contact" class="contact">
@@ -325,9 +208,6 @@ Online Training التدريب الالكتروني عن بعد
 
                   <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=33.510356364605286,%2036.29194248493345&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies2.org">fmovies</a><br><style>.mapouter{position:relative;text-align:right;height:250px;width:300px;}</style><a href="https://www.embedgooglemap.net">embedding google maps in web page</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:250px;width:300px;}</style></div></div>                </div>
                 </div>
-                {{-- <div class="col-lg-8 mt-5 mt-lg-0">
-                  <p>Text<br> Text
-                    Text<br> Text</p> --}}
       
                 </div>
       
@@ -344,9 +224,6 @@ Online Training التدريب الالكتروني عن بعد
             <h3>مركز آسيا</h3>
             <div class="social-links">
               <a href="https://www.facebook.com/Asia.Training.Center1" target="_blank" class="twitter"><i class="bx bxl-facebook"></i></a>
-              {{-- <a href="#" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a> --}}
-              {{-- <a href="#" target="_blank" class="github"><i class="bx bxl-github"></i></a> --}}
-              {{-- <a href="#" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a> --}}
             </div>
             <div class="copyright">
 
@@ -371,9 +248,7 @@ Online Training التدريب الالكتروني عن بعد
       
         <!-- Template Main JS File -->
         <script src="/js/main-ar.js"></script>
-      
-        {{-- <script async>(function(w, d) { w.CollectId = "5f4008971773836e21485455"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script> --}}
-      
+            
       </body>
 
 </html>
